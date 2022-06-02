@@ -7,6 +7,6 @@
 
 
 @section('content')
-    <h1> On staging, This is Staging Environment - yousri rachid</h1>
+    <h1>On production , This is production Environment - yousri rachid</h1>
 @endsection
     
