@@ -1,12 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>first test heroku</title>
-</head>
-<body>
-    <h1> i am yousri RACHID</h1>
-</body>
-</html>
+@extends('templates/layout')
+
+
+@section('title')
+    staging
+@endsection
+
+
+@section('content')
+    <h1> On staging, This is Staging Environment - yousri rachid</h1>
+@endsection
+    
